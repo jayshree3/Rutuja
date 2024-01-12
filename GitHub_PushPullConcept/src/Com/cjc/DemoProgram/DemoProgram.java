@@ -13,6 +13,11 @@ public class DemoProgram
 		return  c;
 	}
 
+	public void m3()
+       {
+	    System.out.println("New Method of--m3")   
+       }
+		
 	public static void main(String[] args) 
 	{
 		System.out.println("Main Start");

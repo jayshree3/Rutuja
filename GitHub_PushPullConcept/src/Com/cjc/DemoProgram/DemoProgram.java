@@ -25,6 +25,7 @@ public class DemoProgram
 		d.m1();
 		int c=d.m2(90, 120);
 		System.out.println(c);
+		d.m3();
 		
 		
 	}

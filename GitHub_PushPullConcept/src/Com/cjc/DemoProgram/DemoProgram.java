@@ -15,7 +15,7 @@ public class DemoProgram
 
 	public void m3()
        {
-	    System.out.println("New Method of--m3")   
+	    System.out.println("New Method of--m3");   
        }
 		
 	public static void main(String[] args) 
